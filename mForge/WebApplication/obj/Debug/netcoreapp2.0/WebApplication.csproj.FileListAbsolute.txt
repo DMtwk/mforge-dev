@@ -1,0 +1,11 @@
+D:\GitRepositories\mforge-dev\mForge\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.deps.json
+D:\GitRepositories\mforge-dev\mForge\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.json
+D:\GitRepositories\mforge-dev\mForge\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+D:\GitRepositories\mforge-dev\mForge\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.dll
+D:\GitRepositories\mforge-dev\mForge\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.pdb
+D:\GitRepositories\mforge-dev\mForge\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojResolveAssemblyReference.cache
+D:\GitRepositories\mforge-dev\mForge\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+D:\GitRepositories\mforge-dev\mForge\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+D:\GitRepositories\mforge-dev\mForge\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+D:\GitRepositories\mforge-dev\mForge\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
+D:\GitRepositories\mforge-dev\mForge\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb
